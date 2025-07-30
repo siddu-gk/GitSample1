@@ -12,4 +12,11 @@ public class AppTesting {
 		System.out.println(" Test 3 completed");
 		System.out.println(" Test 4 completed");
 	}
+	
+	@Test
+	public void developing()
+	{
+		System.out.println("dev 1 is completed");
+		System.out.println("dev 2 is completed");
+	}
 }
