@@ -9,5 +9,7 @@ public class AppTesting {
 	{
 		System.out.println(" Test 1 completed");
 		System.out.println(" Test 2 completed");
+		System.out.println(" Test 3 completed");
+		System.out.println(" Test 4 completed");
 	}
 }
